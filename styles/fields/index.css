@@ -33,7 +33,7 @@ input [type="date"] {
   }
   
   &::before {
-    content: ;
+    content: "";
     position: absolute;
     background: url(/assets/icons/calendar-03.svg) center/contain;
     right: 1rem;
